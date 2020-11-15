@@ -3,11 +3,6 @@
   <img width="250" align='left' src="https://henryaugusta.feylaboratory.xyz/hello%20world_files/student_henry.png?raw=true">
 </p>
  
-### About Me
-Programmer Wannabe
-Flutter, RN , Kotlin ,PHP
- ---
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&layout=compact&theme=nightowl)
 
