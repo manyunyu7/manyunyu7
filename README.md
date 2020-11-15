@@ -4,7 +4,7 @@
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=henryaugusta&repo=Tahfeedz&theme=gruvbox)](https://github.com/henryaugusta/Tahfeedz)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=henryaugusta&repo=Covlin-19&theme=dracula)](https://github.com/henryaugusta/Covlin-19)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=henryaugusta&repo=Sawitz-19&theme=dracula)](https://github.com/henryaugusta/Sawitz)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=henryaugusta&repo=Sawitz)](https://github.com/henryaugusta/Sawitz)
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&layout=compact&theme=nightowl)
 <a href="https://www.instagram.com/_henryaugusta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
