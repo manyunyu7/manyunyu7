@@ -1,4 +1,17 @@
 ## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+ <p>
+  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+</p>
+ 
+### Boy Scout Rule
+
+Programmer Wannabe
+ <ul>
+  <li> Flutter </li>
+   <li> Kotlin </li>
+   <li> PHP </li>
+  </ul>
+ ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&layout=compact&theme=nightowl)
@@ -10,6 +23,7 @@
 
 
 ##  Visit my Fellas  
+[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 [![](https://sourcerer.io/fame/efiop/iterative/dvc/images/0)](https://sourcerer.io/fame/efiop/iterative/dvc/links/0)
 [![](https://sourcerer.io/fame/efiop/iterative/dvc/images/1)](https://sourcerer.io/fame/efiop/iterative/dvc/links/1)
 [![](https://sourcerer.io/fame/efiop/iterative/dvc/images/2)](https://sourcerer.io/fame/efiop/iterative/dvc/links/2)
