@@ -5,9 +5,10 @@
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=henryaugusta&repo=Tahfeedz&theme=gruvbox)](https://github.com/henryaugusta/Tahfeedz)
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=henryaugusta&repo=Covlin-19&theme=dracula)](https://github.com/henryaugusta/Covlin-19)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&layout=compact)](https://github.com/henryaugusta/github-readme-stats)
+
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&layout=compact&theme=nightowl)
-
-
+[![Henry Time Stats](https://github-readme-stats.vercel.app/api/wakatime?username=henryaugusta)](https://github.com/henryaugusta/github-readme-stats)
 
 <a href="https://www.instagram.com/_henryaugusta" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/henry-augusta-666952170" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
