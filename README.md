@@ -1,16 +1,11 @@
 ## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <p>
-  <img width="250" align='left' src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/hacktoberfest.png?raw=true">
+  <img width="250" align='left' src="https://henryaugusta.feylaboratory.xyz/hello%20world_files/student_henry.png?raw=true">
 </p>
  
-### Boy Scout Rule
-
+### About Me
 Programmer Wannabe
- <ul>
-  <li> Flutter </li>
-   <li> Kotlin </li>
-   <li> PHP </li>
-  </ul>
+Flutter, RN , Kotlin ,PHP
  ---
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&theme=radical)
