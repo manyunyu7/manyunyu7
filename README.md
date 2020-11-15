@@ -13,7 +13,6 @@
 
 
 ##  Visit my Fellas  
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
 [![](https://sourcerer.io/fame/efiop/iterative/dvc/images/0)](https://sourcerer.io/fame/efiop/iterative/dvc/links/0)
 [![](https://sourcerer.io/fame/efiop/iterative/dvc/images/1)](https://sourcerer.io/fame/efiop/iterative/dvc/links/1)
 [![](https://sourcerer.io/fame/efiop/iterative/dvc/images/2)](https://sourcerer.io/fame/efiop/iterative/dvc/links/2)
