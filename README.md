@@ -1,4 +1,4 @@
-## Follow Me! <img src="https://raw.githubusercontent.com/henryaugusta/henryaugusta/minion.gif" width="50px"></h2>
+## Follow Me! <img src="https://github.com/henryaugusta/henryaugusta/blob/main/minion.gif" width="50px"></h2>
  <p>
   <img width="100" align='left' src="https://github.com/henryaugusta/henryaugusta/blob/main/me.png?raw=true">
 </p>
