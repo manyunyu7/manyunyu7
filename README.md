@@ -1,6 +1,6 @@
 ## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  <p>
-  <img width="250" align='left' src="https://github.com/henryaugusta/henryaugusta/blob/main/me.png?raw=true">
+  <img width="150" align='right' src="https://github.com/henryaugusta/henryaugusta/blob/main/me.png?raw=true">
 </p>
  
 ![github stats](https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&theme=radical)
