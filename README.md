@@ -1,4 +1,4 @@
-## Follow Me! <img src="https://github.com/henryaugusta/henryaugusta/blob/main/minion.gif" width="50px"></h2>
+## Follow Me!
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=henryaugusta.henryaugusta&style=flat-square&color=0088cc)
 <p>
   <img width="100" align='left' src="https://github.com/henryaugusta/henryaugusta/blob/main/me.png?raw=true">
