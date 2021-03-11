@@ -9,10 +9,12 @@ You can find me on:
 <br>[LinkedIn](https://www.linkedin.com/in/henry-augusta-666952170/)
 <br>[Instagram](https://www.instagram.com/_henryaugusta/?hl=en)
 
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=henryaugusta&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
-
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henryaugusta)](https://github.com/henryaugusta/github-readme-stats)
 
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&amp;layout=compact" alt="Top Languages"></p>
