@@ -18,6 +18,7 @@ i interested in developing application with Kotlin , Flutter and Laravel
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<br><br>
 You can find me on:
 <br>[LinkedIn](https://www.linkedin.com/in/henry-augusta-666952170/)
 <br>[Instagram](https://www.instagram.com/_henryaugusta/?hl=en)
