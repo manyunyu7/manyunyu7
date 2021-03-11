@@ -12,6 +12,8 @@ You can find me on:
 ### Gihub Stats
 <p><img src="https://github-readme-stats.vercel.app/api?username=henryaugusta&amp;show_icons=true&amp;count_private=true&amp;theme=cobalt" alt="GitHub Stats"></p>
 
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henryaugusta)](https://github.com/henryaugusta/github-readme-stats)
+
 ### Top Languages
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&amp;layout=compact" alt="Top Languages"></p>
 
