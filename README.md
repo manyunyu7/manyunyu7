@@ -8,7 +8,7 @@ i interested in developing application with Kotlin , Flutter and Laravel
 - 🌱 I’m currently learning : Kotlin, Flutter and Python (not very often in doing python :) )
 - 📫 How to reach me: henryaugusta4@gmail.com  
 - 🔭 Open for Project :)  
-- visit my portfolio https://henryaugusta.feylabs.my.id
+- visit my portfolio http://henryaugusta.feylabs.my.id
 ### My Playground   
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
