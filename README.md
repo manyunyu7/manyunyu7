@@ -1,6 +1,6 @@
 ## Follow Me!
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=henryaugusta.henryaugusta&style=flat-square&color=0088cc)
-# Henry Augusta Projects
+
 
 Hi everyone, welcome to my repository, 
 i interested in developing application with Kotlin , Flutter and Laravel
@@ -8,6 +8,7 @@ i interested in developing application with Kotlin , Flutter and Laravel
 - 🌱 I’m currently learning : Kotlin, Flutter and Python (not very often in doing python :) )
 - 📫 How to reach me: henryaugusta4@gmail.com  
 - 🔭 Open for Project :)  
+- visit my portfolio https://henryaugusta.feylabs.my.id
 ### My Playground   
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
