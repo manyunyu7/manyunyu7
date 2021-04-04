@@ -29,14 +29,14 @@ You can find me on:
 <br>[LinkedIn](https://www.linkedin.com/in/henry-augusta-666952170/)
 <br>[Instagram](https://www.instagram.com/_henryaugusta/?hl=en)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryaugusta" alt="henryaugusta" /></a> </p>
 
 
-### Gihub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryaugusta&" alt="henryaugusta" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&locale=en" alt="henryaugusta" /></p>
+
+### Github Stats
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryaugusta&" alt="henryaugusta" /></p>
+<p width="100%"  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryaugusta" alt="henryaugusta" /></a> </p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&locale=en" alt="henryaugusta" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta" alt="henryaugusta" /></p>
 
 
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta)](https://github.com/anuraghazra/github-readme-stats)
-hgygh
+
