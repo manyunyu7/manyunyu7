@@ -6,7 +6,7 @@ Hi everyone, welcome to my repository,
 i interested in developing application with Kotlin , Flutter and Laravel
 
 - 🎓 Undergraduate Information System Student @Telkom University - 2018
-- 🌱 I’m currently learning : Kotlin, Flutter and Python (not very often in doing python :) )
+- 🌱 I’m currently learning : Kotlin, Flutter and Javascript.
 - 📫 How to reach me: henryaugusta4@gmail.com  
 - 🔭 Open for Project :)  
 - visit my portfolio http://henryaugusta.feylabs.my.id
