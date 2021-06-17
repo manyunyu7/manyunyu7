@@ -29,7 +29,10 @@ You can find me on:
 <br>[LinkedIn](https://www.linkedin.com/in/henry-augusta-666952170/)
 <br>[Instagram](https://www.instagram.com/_henryaugusta/?hl=en)
 
+### 📊 Weekly development breakdown
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### Github Stats
