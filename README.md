@@ -32,7 +32,7 @@ You can find me on:
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -40,13 +40,13 @@ You can find me on:
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Android Studio           9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -63,7 +63,7 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2021
+ Last Updated on 02/07/2021
 <!--END_SECTION:waka-->
 
 
