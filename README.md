@@ -40,13 +40,14 @@ You can find me on:
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      21 mins             ███████████████░░░░░░░░░░   61.32% 
+Blade Template           13 mins             █████████░░░░░░░░░░░░░░░░   38.68%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  35 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  35 mins             █████████████████████████   100.0%
 
 ```
 
@@ -63,7 +64,7 @@ Java                     4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2021
+ Last Updated on 05/07/2021
 <!--END_SECTION:waka-->
 
 
