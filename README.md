@@ -37,17 +37,17 @@ You can find me on:
 **I Mostly Code in Kotlin** 
 
 ```text
-Kotlin                   16 repos            ███████░░░░░░░░░░░░░░░░░░   30.77% 
-Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.46% 
-Java                     6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+Kotlin                   17 repos            ████████░░░░░░░░░░░░░░░░░   32.08% 
+Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
+HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.32%
 
 ```
 
 
 
- Last Updated on 30/08/2021
+ Last Updated on 31/08/2021
 <!--END_SECTION:waka-->
 
 
