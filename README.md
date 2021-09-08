@@ -32,7 +32,7 @@ You can find me on:
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -70,7 +70,7 @@ Java                     6 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2021
+ Last Updated on 08/09/2021
 <!--END_SECTION:waka-->
 
 
