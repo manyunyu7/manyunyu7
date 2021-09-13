@@ -11,7 +11,6 @@ i interested in developing application with Kotlin , Flutter and Laravel
 - 🔭 Open for Project :)  
 - visit my portfolio http://henryaugusta.feylabs.my.id
 ### My Playground   
-
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -30,48 +29,14 @@ You can find me on:
 <br>[Instagram](https://www.instagram.com/_henryaugusta/?hl=en)
 
 ### 📊 Weekly development breakdown
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henryaugusta)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 📊 **This Week I Spent My Time On** 
 
-```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Kotlin                   8 hrs 58 mins       ████████████████████░░░░░   80.02% 
-XML                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
-Groovy                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48% 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.27% 
-PHP                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.51%
-
-🔥 Editors: 
-Android Studio           11 hrs 2 mins       ████████████████████████░   98.49% 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.19% 
-PhpStorm                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32%
-
-💻 Operating System: 
-Windows                  9 hrs 42 mins       █████████████████████░░░░   86.68% 
-Linux                    1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32%
-
-```
-
-**I Mostly Code in Kotlin** 
-
-```text
-Kotlin                   22 repos            █████████░░░░░░░░░░░░░░░░   37.93% 
-Blade                    10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.24% 
-HTML                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
-Java                     6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34%
-
-```
 
 
 
- Last Updated on 13/09/2021
-<!--END_SECTION:waka-->
 
 
 ### Github Stats
@@ -80,5 +45,6 @@ Java                     6 repos             ██░░░░░░░░░�
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&locale=en" alt="henryaugusta" /></p>
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta" alt="henryaugusta" /></p>
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 
