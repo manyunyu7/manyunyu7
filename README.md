@@ -28,18 +28,22 @@ You can find me on:
 <br>[LinkedIn](https://www.linkedin.com/in/henry-augusta-666952170/)
 <br>[Instagram](https://www.instagram.com/_henryaugusta/?hl=en)
 
-### 📊 Weekly development breakdown
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=henryaugusta)](https://github.com/anuraghazra/github-readme-stats) -->
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/henryaugusta/github-readme-stats"><img alt="Henry Augusta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/henryaugusta/github-readme-stats"><img alt="Henry Augusta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-📊 **This Week I Spent My Time On** 
+<br/>
+<br/>
 
+<a href="https://github.com/akbaraffaruk/github-readme-activity-graph"><img alt="Henry Augusta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henryaugusta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-
-
-
-
-### Github Stats
+<br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryaugusta&" alt="henryaugusta" /></p>
 <p width="100%"  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryaugusta" alt="henryaugusta" /></a> </p>
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&locale=en" alt="henryaugusta" /></p>
