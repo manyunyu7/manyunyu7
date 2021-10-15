@@ -32,8 +32,8 @@ You can find me on:
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/henryaugusta/github-readme-stats"><img alt="Henry Augusta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/henryaugusta/github-readme-stats"><img alt="Henry Augusta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/manunyu7/github-readme-stats"><img alt="Manyunyu7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/manyunyu7/github-readme-stats"><img alt="Henry Augusta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -41,13 +41,13 @@ You can find me on:
 <br/>
 <br/>
 
-<a href="https://github.com/akbaraffaruk/github-readme-activity-graph"><img alt="Henry Augusta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henryaugusta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/manyunyu7/github-readme-activity-graph"><img alt="Manyunyu7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=henryaugusta&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henryaugusta&" alt="henryaugusta" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manyunyu7&" alt="henryaugusta" /></p>
 <p width="100%"  align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henryaugusta" alt="henryaugusta" /></a> </p>
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=henryaugusta&show_icons=true&locale=en" alt="henryaugusta" /></p>
-<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryaugusta" alt="henryaugusta" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manyunyu7&show_icons=true&locale=en" alt="henryaugusta" /></p>
+<p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyunyu7" alt="henryaugusta" /></p>
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
