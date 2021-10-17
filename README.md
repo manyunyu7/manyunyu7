@@ -49,6 +49,9 @@ You can find me on:
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manyunyu7&show_icons=true&locale=en" alt="manyunyu7" /></p>
 <p  align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyunyu7" alt="manyunyu7" /></p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+## ❤ Views and Followers
 
-
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=manyunyu7">
+</a>
+<a href="https://github.com/manyunyu7?tab=followers"><img src="https://img.shields.io/github/followers/manyunyu7?label=Followers&style=social" alt="GitHub Badge"></a>
