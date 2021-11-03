@@ -7,9 +7,9 @@ i interested in developing application with Kotlin , Flutter and Laravel
 
 - 🎓 Undergraduate Information System Student @Telkom University - 2018
 - 🌱 I’m currently learning : Kotlin, Flutter and Javascript.
-- 📫 How to reach me: henryaugusta4@gmail.com  
+- 📫 How to reach me: firriezky@gmail.com  
 - 🔭 Open for Project :)  
-- visit my portfolio http://henryaugusta.feylabs.my.id
+
 ### My Playground   
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -55,3 +55,12 @@ You can find me on:
     <img src="https://komarev.com/ghpvc/?username=manyunyu7">
 </a>
 <a href="https://github.com/manyunyu7?tab=followers"><img src="https://img.shields.io/github/followers/manyunyu7?label=Followers&style=social" alt="GitHub Badge"></a>
+
+## ~manyunyu7
+
+تَعَرَّفْ إِلَى اللهِ فِي الرَّخَاءِ يَعْرِفْكَ فِي الشِّدَّةِ، وَاعْلَمْ أَنَّ مَا أَخْطَأَكَ لَمْ يَكُنْ لِيُصِيْبَكَ، وَمَا أَصَابَكَ لَم يَكُنْ لِيُخْطِئَكَ، وَاعْلَمْ أَنَّ النَّصْرَ مَعَ الصَّبْرِ، وَأَنَّ الفَرَجَ مَعَ الكَرْبِ، وَأَنَّ مَعَ العُسْرِ يُسْراً )).
+
+<p>
+Kenalilah Allah di saat senang, niscaya Allah mengenalmu di saat susah. Ketahuilah, bahwa apa saja yang luput darimu, maka tidak akan pernah menimpamu. Dan apa yang menimpamu, maka tidak akan pernah luput darimu. <br><br> <strong>Ketahuilah bahwa kemenangan bersama kesabaran, kelapangan itu bersama kesulitan, dan bersama kesulitan itu ada kemudahan  </strong> .
+</p>
+
