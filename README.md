@@ -30,7 +30,7 @@ You can find me on:
 
 
 ## 📊 My Github Stats
-
+![](https://github-readme-stats.vercel.app/api/wakatime?username=henryaugusta&api_domain=wakapi.dev&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact)
   <br/>
     <a href="https://github.com/manunyu7/github-readme-stats"><img alt="Manyunyu7's Github Stats" src="https://github-readme-stats.vercel.app/api?username=manyunyu7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/manyunyu7/github-readme-stats"><img alt="Henry Augusta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyunyu7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
