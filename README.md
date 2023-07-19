@@ -3,7 +3,7 @@
 
 
 Hi everyone, welcome to my repository, 
-i interested in developing application with Kotlin , Flutter and Laravel
+i interested in developing application with Kotlin , Flutter and Laravel and soon iOS.
 
 - 🎓 Graduated @Telkom University 2022
 - 🌱 I’m currently learning : iOS & Node JS
