@@ -38,7 +38,8 @@ You can find me on:
 <br/>
 <br/>
 
-<a href="https://github.com/manyunyu7/github-readme-activity-graph"><img alt="Manyunyu7's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manyunyu7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Henry Augusta](https://github-readme-activity-graph.vercel.app/graph?username=manyunyu7&theme=view)](https://github.com/manyunyu7/github-readme-activity-graph)
+
 
 <br/>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manyunyu7&" alt="manyunyu7" /></p>
